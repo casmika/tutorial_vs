@@ -1,0 +1,10 @@
+D:\DESAIN\Visual Studio 2019\Coba\Coba\Coba\bin\Debug\Coba.exe.config
+D:\DESAIN\Visual Studio 2019\Coba\Coba\Coba\bin\Debug\Coba.exe
+D:\DESAIN\Visual Studio 2019\Coba\Coba\Coba\bin\Debug\Coba.pdb
+D:\DESAIN\Visual Studio 2019\Coba\Coba\Coba\obj\Debug\Coba.csprojAssemblyReference.cache
+D:\DESAIN\Visual Studio 2019\Coba\Coba\Coba\obj\Debug\Coba.Form1.resources
+D:\DESAIN\Visual Studio 2019\Coba\Coba\Coba\obj\Debug\Coba.Properties.Resources.resources
+D:\DESAIN\Visual Studio 2019\Coba\Coba\Coba\obj\Debug\Coba.csproj.GenerateResource.cache
+D:\DESAIN\Visual Studio 2019\Coba\Coba\Coba\obj\Debug\Coba.csproj.CoreCompileInputs.cache
+D:\DESAIN\Visual Studio 2019\Coba\Coba\Coba\obj\Debug\Coba.exe
+D:\DESAIN\Visual Studio 2019\Coba\Coba\Coba\obj\Debug\Coba.pdb
